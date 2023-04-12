@@ -22,3 +22,5 @@ For all builds:
 Binary is built in ./out/build-t194/lk.bin
 
 
+
+Retired. Superseeded by HaydenAI/CBoot
